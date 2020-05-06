@@ -1,0 +1,11 @@
+{
+  "name": "miliage",
+  "version": "1.0.0",
+  "description": "tugas1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RinaLia",
+  "license": "ISC"
+}
