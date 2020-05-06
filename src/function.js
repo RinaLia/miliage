@@ -32,6 +32,7 @@ const getDistance = (start, end) => {
         speed += 1;
       }
     }
+    totalDistance += speed;
   }
   return totalDistance;
 };
